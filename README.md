@@ -1,4 +1,4 @@
-# prettier-eslint-atom
+# prettier-eslint (for Atom)
 
 Atom package to format your JavaScript using Prettier and ESLint (with `eslint --fix`)
 
@@ -10,7 +10,7 @@ Atom package to format your JavaScript using Prettier and ESLint (with `eslint -
 [![downloads][downloads-badge]][package]
 [![MIT License][license-badge]][LICENSE]
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Donate][donate-badge]][donate]
 [![Code of Conduct][coc-badge]][coc]
@@ -34,10 +34,10 @@ This uses [`prettier-eslint`][prettier-eslint] to automatically format and fix o
 ## Installation
 
 ```
-apm install prettier-eslint-atom
+apm install prettier-eslint
 ```
 
-Or, Settings → Install → Search for `prettier-eslint-atom`
+Or, Settings → Install → Search for `prettier-eslint`
 
 ## Usage
 
@@ -58,8 +58,8 @@ This repository is a copy + modification of [`prettier-atom`](https://github.com
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Kent C. Dodds</sub>](https://kentcdodds.com)<br />[💻](https://github.com/kentcdodds/prettier-eslint-atom/commits?author=kentcdodds) [📖](https://github.com/kentcdodds/prettier-eslint-atom/commits?author=kentcdodds) 🚇 | [<img src="https://avatars.githubusercontent.com/u/1144075?v=3" width="100px;"/><br /><sub>Luca Barone</sub>](https://github.com/cloud-walker)<br /> |
-| :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Kent C. Dodds</sub>](https://kentcdodds.com)<br />[💻](https://github.com/kentcdodds/prettier-eslint-atom/commits?author=kentcdodds) [📖](https://github.com/kentcdodds/prettier-eslint-atom/commits?author=kentcdodds) 🚇 | [<img src="https://avatars.githubusercontent.com/u/1144075?v=3" width="100px;"/><br /><sub>Luca Barone</sub>](https://github.com/cloud-walker)<br /> | [<img src="https://avatars.githubusercontent.com/u/6173488?v=3" width="100px;"/><br /><sub>Rob Wise</sub>](https://robwise.github.io)<br />[💻](https://github.com/kentcdodds/prettier-eslint-atom/commits?author=robwise) |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification. Contributions of any kind welcome!
@@ -76,10 +76,10 @@ MIT
 [coverage]: https://codecov.io/github/kentcdodds/prettier-eslint-atom
 [dependencyci-badge]: https://dependencyci.com/github/kentcdodds/prettier-eslint-atom/badge?style=flat-square
 [dependencyci]: https://dependencyci.com/github/kentcdodds/prettier-eslint-atom
-[version-badge]: https://img.shields.io/apm/v/prettier-eslint-atom.svg?style=flat-square
-[package]: https://atom.io/packages/prettier-eslint-atom
-[downloads-badge]: https://img.shields.io/apm/dm/prettier-eslint-atom.svg?style=flat-square
-[license-badge]: https://img.shields.io/apm/l/prettier-eslint-atom.svg?style=flat-square
+[version-badge]: https://img.shields.io/apm/v/prettier-eslint.svg?style=flat-square
+[package]: https://atom.io/packages/prettier-eslint
+[downloads-badge]: https://img.shields.io/apm/dm/prettier-eslint.svg?style=flat-square
+[license-badge]: https://img.shields.io/apm/l/prettier-eslint.svg?style=flat-square
 [license]: https://github.com/kentcdodds/prettier-eslint-atom/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
